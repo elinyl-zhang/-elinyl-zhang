@@ -16,7 +16,7 @@ I'm currently exploring how technology, knowledge, and human experience connect.
 - Programming (Python)
 - AI-assisted workflows
 - Information organization & knowledge systems
-- Languages — Italian (B2), French (C1), English (C1)
+
 🛠️ Building & Exploring
 I use projects as a way to turn questions and ideas into something tangible.
 This GitHub is a place where I document:
@@ -25,6 +25,6 @@ This GitHub is a place where I document:
 - small experiments
 - personal projects
 - notes and reflections
-Some projects are finished. Others are experiments and works in progress.
-📫 Connect
+
+- 📫 Connect
 - elinzhx@gamil.com
